@@ -1,0 +1,6 @@
+{
+  "name": "Gốm Sứ Phúc Quý - Mỹ nghệ Gốm sứ",
+  "description": "Cửa hàng trực tuyến gốm sứ thủ công truyền thống nghệ thuật Gốm Sứ Phúc Quý. Khám phá các tác phẩm men hỏa biến, men rạn, men ngọc độc bản từ các nghệ nhân Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
